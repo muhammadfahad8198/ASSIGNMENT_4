@@ -1,3 +1,3 @@
 # ASSIGNMENT_4
 
-<img src="SCREENSHOT.png">
+<img width="30%" src="SCREENSHOT.png" />
